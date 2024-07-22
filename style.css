@@ -79,6 +79,7 @@ h1 {
 .fas, .fab {
     font-size: var(--font_size_big);
     color: var(--whiteColor);
+    padding-right: 2px;
 }
 
 .flex {
